@@ -1,0 +1,2 @@
+mac, window, linux
+iphonex, samsung 9
